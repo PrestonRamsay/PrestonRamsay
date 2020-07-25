@@ -1,12 +1,11 @@
 ### Welcome to my GitHub profile! 😎 ✨
 
-![](https://media4.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif)
-
 ![](https://raw.githubusercontent.com/PrestonRamsay/PrestonRamsay/master/images/Banner.png)
 
 ### Personal Summary
 Coding is a very exciting field to be in because there are endlessly ways to be creative when designing a new application. It also provides unique and challenging problems that I enjoy working through on a daily basis. I am a deep-thinker and a hard-worker which means I can thrive independently. But, I consider myself a dynamic individual, because I love working with others doing pair-programming or group programming, because I like hearing about different ways of thinking and connecting with like-minded people. I am very enthusiastic about learning new concepting and understanding all that I can.
 
+![](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)
 
 #### ⭐️ &nbsp;  My Favorite Repositories
 
