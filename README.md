@@ -24,6 +24,8 @@ Coding is a very exciting field to be in because there are endlessly ways to be 
 
 The best ways to reach me are through email or LinkedIn!
 
-[![Email](https://raw.githubusercontent.com/PrestonRamsay/PrestonRamsay/master/images/email.png)](https://preston.ramsay@outlook.com)
+![](https://raw.githubusercontent.com/PrestonRamsay/PrestonRamsay/master/images/email.png)]
 [![LinkedIn](https://raw.githubusercontent.com/PrestonRamsay/PrestonRamsay/master/images/linkedin.png)](https://www.linkedin.com/in/prestonramsay/)
+preston.ramsay@outlook.com
+linkedin.com/in/prestonramsay/
 
