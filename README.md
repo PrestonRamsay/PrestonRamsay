@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! 😎 ✨
 
-![](https://images.app.goo.gl/hQLSbft46p5VZ583A)
+
 
 ![](https://media4.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif)
 
