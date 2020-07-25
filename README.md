@@ -1,6 +1,6 @@
-![](https://media4.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif)
-
 ### Welcome to my GitHub profile! 😎 ✨
+
+![](https://media4.giphy.com/headers/omerismos/3gFzR5rNSEYu.gif)
 
 ![](https://raw.githubusercontent.com/PrestonRamsay/PrestonRamsay/master/images/Banner.png)
 
