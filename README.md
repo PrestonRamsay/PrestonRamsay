@@ -16,7 +16,7 @@ Coding is a very exciting field to be in because there are endlessly ways to be 
 
 3️⃣ &nbsp; [TEnmo Capstone](https://github.com/PrestonRamsay/TEnmo-Capstone) - A program that utilizes SQL and an API to model an MVC relationship between a client and a server.
 
-#### 🌱  &nbsp; What I'm Learning
+#### 🎓  &nbsp; What I'm Learning
 
 * C#
 * Java
